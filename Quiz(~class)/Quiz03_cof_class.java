@@ -2,7 +2,7 @@ package day11_set_get;
 
 import java.util.Scanner;
 
-public class Quiz03_class {
+public class Quiz03_cof_class {
 
 	Scanner scan = new Scanner(System.in);
 	int choice;

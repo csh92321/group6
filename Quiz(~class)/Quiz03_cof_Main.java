@@ -2,10 +2,10 @@ package day11_set_get;
 
 import java.util.Scanner;
 
-public class Quiz03_Main {
+public class Quiz03_cof_Main {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		Quiz03_class cf = new Quiz03_class();
+		Quiz03_cof_class cf = new Quiz03_cof_class();
 
 		int c1 = 1000, c2 = 1500, c3 = 1300, c4 = 2000, money = 0;
 		String total;
